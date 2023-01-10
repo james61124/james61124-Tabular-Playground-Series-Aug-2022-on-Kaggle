@@ -14,7 +14,7 @@ To increase accuracy, we must train our model using these data.
 3. Execute 109550136_Final_inference.ipynb to get submission.csv
 
 ## Files to download
-[requirements.txt](https://drive.google.com/file/d/1RYWyuHml7SKKxsV1oU7hkjb252ebncD2/view?usp=sharing)  
+[requirements.txt](https://drive.google.com/file/d/1y9JozgiwtgnPbS8an7acvaCO9APfKg44/view?usp=share_link)  
 [weights](https://drive.google.com/file/d/1OmG0MRq2z5xYJCMeAUWg0Rl_ifmYuEyK/view?usp=share_link)
 [inference](https://drive.google.com/file/d/10AxRcEqzM_T8nwdx1FqMzAOn1wEH-gZb/view?usp=share_link)
 
